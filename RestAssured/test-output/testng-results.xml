@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8226" started-at="2018-10-22T15:00:57Z" finished-at="2018-10-22T15:01:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8226" started-at="2018-10-22T15:00:57Z" finished-at="2018-10-22T15:01:06Z">
+      <class name="rESTAssured.TestCases">
+        <test-method status="PASS" signature="GetToken()[pri:0, instance:rESTAssured.TestCases@14bf9759]" name="GetToken" duration-ms="4533" started-at="2018-10-22T15:00:57Z" finished-at="2018-10-22T15:01:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetToken -->
+        <test-method status="PASS" signature="CreateIssue()[pri:1, instance:rESTAssured.TestCases@14bf9759]" name="CreateIssue" duration-ms="1463" started-at="2018-10-22T15:01:02Z" finished-at="2018-10-22T15:01:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateIssue -->
+        <test-method status="PASS" signature="GetIssue()[pri:2, instance:rESTAssured.TestCases@14bf9759]" name="GetIssue" duration-ms="210" started-at="2018-10-22T15:01:03Z" finished-at="2018-10-22T15:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetIssue -->
+        <test-method status="PASS" signature="AddComment()[pri:3, instance:rESTAssured.TestCases@14bf9759]" name="AddComment" duration-ms="413" started-at="2018-10-22T15:01:04Z" finished-at="2018-10-22T15:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddComment -->
+        <test-method status="PASS" signature="UpdateComment()[pri:4, instance:rESTAssured.TestCases@14bf9759]" name="UpdateComment" duration-ms="403" started-at="2018-10-22T15:01:04Z" finished-at="2018-10-22T15:01:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateComment -->
+        <test-method status="PASS" signature="DeleteIssue()[pri:5, instance:rESTAssured.TestCases@14bf9759]" name="DeleteIssue" duration-ms="1094" started-at="2018-10-22T15:01:04Z" finished-at="2018-10-22T15:01:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteIssue -->
+      </class> <!-- rESTAssured.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

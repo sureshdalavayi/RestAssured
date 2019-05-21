@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_102"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/json-path-3.1.1-deps/json-path-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/json-path-3.1.1-deps/docs/json-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/json-path-3.1.1-deps/docs/json-path-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/json-path-3.1.1-deps/docs/rest-assured-common-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/json-path-3.1.1-deps/docs/rest-assured-common-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/json-path-3.1.1-deps/json-path-3.1.1-deps/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/json-path-3.1.1-deps/json-path-3.1.1-deps/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/json-path-3.1.1-deps/json-path-3.1.1-deps/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/rest-assured-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/docs/json-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/docs/json-path-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/docs/rest-assured-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/docs/rest-assured-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/docs/rest-assured-common-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/docs/rest-assured-common-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/docs/xml-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/RestAssured/rest-assured-3.1.1-dist/docs/xml-path-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/jackson-annotations-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/jackson-core-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/jackson-coreutils-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/jackson-databind-2.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/jopt-simple-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/json-schema-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/json-schema-validator-2.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/json-schema-validator-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/jsr305-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/libphonenumber-6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/rhino-1.7R4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/docs/json-schema-validator-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Json-schema/json-schema-validator-3.1.1-dist/docs/json-schema-validator-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Scala-Support/scala-support-3.1.1-dist/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Scala-Support/scala-support-3.1.1-dist/scala-library-2.11.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/Scala-Support/scala-support-3.1.1-dist/scala-support-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/xml-path-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/docs/rest-assured-common-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/docs/rest-assured-common-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/docs/xml-path-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh.dalavayi/Documents/Study/REST_Automate/Rest Assured JAR files/XMLPath/xml-path-3.1.1-dist/docs/xml-path-3.1.1-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
